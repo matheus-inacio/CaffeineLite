@@ -20,4 +20,4 @@ The service usually uses less than 1MB of memory.
 
 ## Downloads
 
-[Download CaffeineLine](https://github.com/matheus-inacio/CaffeineLite/releases)
+[Download CaffeineLite](https://github.com/matheus-inacio/CaffeineLite/releases)
